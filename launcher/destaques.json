@@ -1,0 +1,22 @@
+{
+  "highlights": [
+    {
+      "title": "Evento Halloween",
+      "subtitle": "Ganhe recompensas especiais",
+      "image": "https://seusite.com/imagens/halloween.png",
+      "action": "servers"
+    },
+    {
+      "title": "Loja",
+      "subtitle": "Beneficios e pacotes",
+      "image": "https://seusite.com/imagens/loja.png",
+      "action": "store"
+    },
+    {
+      "title": "Configuracoes",
+      "subtitle": "Perfil e jogo",
+      "image": "https://seusite.com/imagens/config.png",
+      "action": "settings"
+    }
+  ]
+}
