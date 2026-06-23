@@ -17,6 +17,13 @@
       "subtitle": "Perfil e jogo",
       "image": "https://seusite.com/imagens/config.png",
       "action": "settings"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "subtitle": "Role Playing",
+      "price": "$19.99",
+      "image": "https://seusite.com/cyberpunk.jpg",
+      "action": "store"
     }
   ]
 }
