@@ -4,18 +4,21 @@
       "title": "Evento Halloween",
       "subtitle": "Ganhe recompensas especiais",
       "image": "https://lucas8662.github.io/images/msIMG.png",
+      "url": "https://seusite.com/loja",
       "action": "servers"
     },
     {
       "title": "Loja",
       "subtitle": "Beneficios e pacotes",
       "image": "https://lucas8662.github.io/images/msIMG.png",
+      "url": "https://seusite.com/loja",
       "action": "store"
     },
     {
       "title": "Configuracoes",
       "subtitle": "Perfil e jogo",
       "image": "https://lucas8662.github.io/images/msIMG.png",
+      "url": "https://seusite.com/loja",
       "action": "servers"
     },
     {
@@ -23,6 +26,7 @@
       "subtitle": "Role Playing",
       "price": "$19.99",
       "image": "https://lucas8662.github.io/images/msIMG.png",
+      "url": "https://seusite.com/loja",
       "action": "store"
     }
   ]
