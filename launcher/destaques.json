@@ -15,13 +15,6 @@
       "action": "store"
     },
     {
-      "title": "Configuracoes",
-      "subtitle": "Perfil e jogo",
-      "image": "https://lucas8662.github.io/images/msIMG.png",
-      "url": "https://seusite.com/loja",
-      "action": "servers"
-    },
-    {
       "title": "Cyberpunk 2077",
       "subtitle": "Role Playing",
       "price": "$19.99",
