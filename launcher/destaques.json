@@ -3,26 +3,26 @@
     {
       "title": "Evento Halloween",
       "subtitle": "Ganhe recompensas especiais",
-      "image": "https://seusite.com/imagens/halloween.png",
+      "image": "https://lucas8662.github.io/images/msIMG.png",
       "action": "servers"
     },
     {
       "title": "Loja",
       "subtitle": "Beneficios e pacotes",
-      "image": "https://seusite.com/imagens/loja.png",
+      "image": "https://lucas8662.github.io/images/msIMG.png",
       "action": "store"
     },
     {
       "title": "Configuracoes",
       "subtitle": "Perfil e jogo",
-      "image": "https://seusite.com/imagens/config.png",
-      "action": "settings"
+      "image": "https://lucas8662.github.io/images/msIMG.png",
+      "action": "servers"
     },
     {
       "title": "Cyberpunk 2077",
       "subtitle": "Role Playing",
       "price": "$19.99",
-      "image": "https://seusite.com/cyberpunk.jpg",
+      "image": "https://lucas8662.github.io/images/msIMG.png",
       "action": "store"
     }
   ]
