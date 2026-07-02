@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "title": "VIP Bronze",
+      "subtitle": "30 dias",
+      "image": "https://lucas8662.github.io/images/user.jpg",
+      "price": "R$ 19,90",
+      "url": "https://seu-site.com/loja/vip-bronze"
+    },
+    {
+      "title": "VIP Prata",
+      "subtitle": "30 dias",
+      "image": "https://lucas8662.github.io/images/user.jpg",
+      "price": "R$ 29,90",
+      "url": "https://seu-site.com/loja/vip-prata"
+    },
+    {
+      "title": "VIP Ouro",
+      "subtitle": "30 dias",
+      "image": "https://lucas8662.github.io/images/user.jpg",
+      "price": "R$ 39,90",
+      "url": "https://seu-site.com/loja/vip-ouro"
+    }
+  ]
+}
