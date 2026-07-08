@@ -1,10 +1,10 @@
 
 {
-  "version_code": 11,
-  "version_name": "0.1.1-beta",
-  "apk_url": "https://github.com/lucas8662/lucas8662.github.io/releases/download/0.1.2-bet/Aurora-debug.apk",
-  "sha256": "031B28AFB8E53338B377EBF3AE5E837BC516C580109B990B340A5CC8DF5EAB1A",
+  "version_code": 12,
+  "version_name": "0.1.2-beta",
+  "apk_url": "https://github.com/lucas8662/lucas8662.github.io/releases/download/0.1.2-bet/app-release.apk",
+  "sha256": "035B0589AF08EA71B06A46CC56ACBDC70C168A00114FF3886B346D918C2B4432",
   "size": 0,
   "required": true,
-  "changelog": "Correções de estabilidade e melhorias no launcher."
+  "changelog": "Correção de crash."
 }
