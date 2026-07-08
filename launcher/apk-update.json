@@ -3,7 +3,7 @@
   "version_code": 12,
   "version_name": "0.1.2-beta",
   "apk_url": "https://github.com/lucas8662/lucas8662.github.io/releases/download/0.1.2-bet/app-release.apk",
-  "sha256": "035B0589AF08EA71B06A46CC56ACBDC70C168A00114FF3886B346D918C2B4432",
+  "sha256": "D4B8EE8CAAA288FC570FC41479F1D9788ECA28515BEE98E14FC2FB758C178DC7",
   "size": 0,
   "required": true,
   "changelog": "Correção de crash."
