@@ -1,10 +1,10 @@
 
 {
-  "version_code": 14,
-  "version_name": "0.1.4-beta",
-  "apk_url": "https://github.com/lucas8662/lucas8662.github.io/releases/download/0.1.4-Beta/app-release.apk",
-  "sha256": "F3D4A32F2782B072F4723034B33FC86AE2E2E64E03C29A415AB871E508FB2E34",
+  "version_code": 15,
+  "version_name": "0.1.5-Beta",
+  "apk_url": "https://github.com/lucas8662/lucas8662.github.io/releases/download/0.1.5-Beta/app-release.apk",
+  "sha256": "79B3E89D72EA41DDD9B84691D9D8676A0468DF9C8B05850C901DC39796BF0B1A",
   "size": 0,
   "required": true,
-  "changelog": "Correção no VOIP, Botões do jogo e mais algumas coisas."
+  "changelog": "Correção de crashes e atualização de UI."
 }
